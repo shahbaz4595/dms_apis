@@ -1,0 +1,24 @@
+{
+  "name": "dms_apis",
+  "version": "1.0.0",
+  "description": "DMS APIs are Restful APIs for a doubt management system, which can be used internally in any project for creating, managing and tracking doubts in a systematic manner.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Doubt",
+    "Management",
+    "System",
+    "Project",
+    "Management"
+  ],
+  "author": "Shahbaz Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  }
+}
